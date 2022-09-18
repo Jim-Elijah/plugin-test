@@ -1,4 +1,6 @@
 # plugin-test
+>this repo is to test plugin jim-audio-player
+
 
 ## Project setup
 ```

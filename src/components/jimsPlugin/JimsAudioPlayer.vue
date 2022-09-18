@@ -116,7 +116,7 @@ export default {
         volumeRefName,
       },
       audioSrc:
-        "http://m701.music.126.net/20220912230859/6a5f83fb6ffaad7d7ee64c111763b512/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096448125/9f26/c61d/8ec5/ff6818dec4d407643fad991f07a6660d.mp3",
+        "https://www.cambridgeenglish.org/images/153149-movers-sample-listening-test-vol2.mp3",
     };
   },
   methods: {
